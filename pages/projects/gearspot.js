@@ -165,7 +165,7 @@ export default function GearSpot() {
           <div className="text-center">
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a 
-                href="https://github.com/yourusername/gearspot"
+                href="https://github.com/Johnbaileywilliams96/Gear_client"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-3 bg-gray-900 text-white font-semibold rounded-lg hover:bg-gray-800 transition-colors duration-200"

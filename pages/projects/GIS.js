@@ -180,14 +180,6 @@ export default function GIS() {
           <div className="text-center">
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a 
-                href="https://drive.google.com/your-gis-project-link"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-8 py-3 bg-gray-900 text-white font-semibold rounded-lg hover:bg-gray-800 transition-colors duration-200"
-              >
-                View Full Project Report
-              </a>
-              <a 
                 href="/"
                 className="px-8 py-3 border-2 border-gray-400 text-gray-700 font-semibold rounded-lg hover:bg-gray-50 transition-colors duration-200"
               >
