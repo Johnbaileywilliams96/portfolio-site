@@ -7,7 +7,7 @@ export default function Navbar() {
     const navItems = [
         {name: 'Workout App', href: '/projects/workout-app'},
         {name: 'Gearspot App', href: '/projects/gearspot'},
-        {name: 'Bangazon App', href: '/projects/bangazon'},
+        {name: 'GIS Work', href: '/projects/GIS'},
     ]
 
     return (

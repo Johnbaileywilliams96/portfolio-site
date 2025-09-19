@@ -40,17 +40,12 @@ export default function Home() {
               {/* Call to Action Buttons */}
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
                 <a 
-                  href="/projects/workout-app"
+                  href="/projects/gearspot"
                   className="px-8 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200 hover:from-blue-700 hover:to-purple-700"
                 >
                   View My Projects
                 </a>
-                <a 
-                  href="/contact"
-                  className="px-8 py-3 border-2 border-gray-400 text-gray-300 font-semibold rounded-lg hover:bg-white hover:text-gray-900 transition-all duration-200 hover:shadow-lg"
-                >
-                  Get In Touch
-                </a>
+             
               </div>
             </div>
 
