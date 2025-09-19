@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Image from 'next/image';
+import Link from 'next/link';
 
 export default function GIS() {
   return (
@@ -179,12 +180,12 @@ export default function GIS() {
           {/* Links */}
           <div className="text-center">
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a 
+              <Link 
                 href="/"
                 className="px-8 py-3 border-2 border-gray-400 text-gray-700 font-semibold rounded-lg hover:bg-gray-50 transition-colors duration-200"
               >
                 ← Back to Portfolio
-              </a>
+              </Link>
             </div>
           </div>
         </div>
