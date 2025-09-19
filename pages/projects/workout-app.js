@@ -92,7 +92,7 @@ export default function WorkoutApp() {
                   </svg>
                 </div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">Social Features</h3>
-                <p className="text-gray-600">Like and comment on other users' workouts. Build a supportive fitness community through social interaction.</p>
+                <p className="text-gray-600">Like and comment on other users workouts. Build a supportive fitness community through social interaction.</p>
               </div>
               
               <div className="bg-white rounded-lg shadow-md p-6">
