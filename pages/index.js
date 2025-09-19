@@ -1,6 +1,14 @@
+import Head from 'next/head';
+
 export default function Home() {
   return (
     <>
+      <Head>
+        <title>John Williams - Software Developer Portfolio</title>
+        <meta name="description" content="Full-stack software developer with expertise in React, Django, and modern web technologies" />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+      
       <div className="relative min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-black">
         {/* Hero Section */}
         <div className="relative z-20 flex flex-col justify-center min-h-screen px-4 sm:px-6 lg:px-8">
@@ -45,7 +53,6 @@ export default function Home() {
                 >
                   View My Projects
                 </a>
-             
               </div>
             </div>
 

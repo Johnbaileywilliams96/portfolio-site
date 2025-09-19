@@ -32,7 +32,7 @@ export default function GearSpot() {
                   with other musicians who share similar interests.
                 </p>
                 <p className="text-gray-700 mb-6">
-                  Whether it's a vintage guitar, cutting-edge synthesizer, or professional recording equipment, 
+                  Whether it&apos;s a vintage guitar, cutting-edge synthesizer, or professional recording equipment, 
                   GearSpot is the place to share your passion for musical instruments and technology.
                 </p>
                 
@@ -111,7 +111,7 @@ export default function GearSpot() {
               <div className="bg-gray-200 rounded-lg h-48 flex items-center justify-center">
                 <Image 
                 src="/images/gearspot/profile.png" 
-                alt="GearSpot Homepage" 
+                alt="GearSpot Profile" 
                 width={400} 
                 height={250} 
                 className="rounded-lg shadow-md"
@@ -120,7 +120,7 @@ export default function GearSpot() {
               <div className="bg-gray-200 rounded-lg h-48 flex items-center justify-center">
                 <Image 
                 src="/images/gearspot/create.png" 
-                alt="GearSpot Homepage" 
+                alt="GearSpot Create Post" 
                 width={400} 
                 height={250} 
                 className="rounded-lg shadow-md"
@@ -147,7 +147,7 @@ export default function GearSpot() {
               <div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-3">Image Upload & Storage</h3>
                 <p className="text-gray-600 mb-4">
-                  Implemented efficient image upload functionality with Django's file handling system, 
+                  Implemented efficient image upload functionality with Django&apos;s file handling system, 
                   ensuring proper validation and storage of user-generated gear photos.
                 </p>
               </div>
